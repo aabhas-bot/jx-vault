@@ -14,10 +14,10 @@ spec:
   provider: "https://github.com"
   providerKind: 'github'
   providerName: 'github'
-  org: "babadofar"
-  repo: "jx3-k3s-vault"
-  httpCloneURL: "https://github.com/babadofar/jx3-k3s-vault.git"
-  url: "https://github.com/babadofar/jx3-k3s-vault.git"
+  org: "aabhas-bot"
+  repo: "jx-vault"
+  httpCloneURL: "https://github.com/aabhas-bot/jx-vault.git"
+  url: "https://github.com/aabhas-bot/jx-vault.git"
   scheduler:
     kind: Scheduler
     name: "in-repo"

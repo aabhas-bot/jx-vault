@@ -34,8 +34,8 @@ jxRequirements:
     registry: ghcr.io
   environments:
   - key: dev
-    owner: babadofar
-    repository: jx3-k3s-vault
+    owner: aabhas-bot
+    repository: jx-vault
   - key: staging
   ingress:
     domain: change.me

@@ -13,7 +13,7 @@ metadata:
 spec:
   source:
     ref: "master"
-    url: https://github.com/babadofar/jx3-k3s-vault.git
+    url: https://github.com/aabhas-bot/jx-vault.git
   kind: Development
   label: Development
   namespace: jx
